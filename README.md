@@ -20,3 +20,6 @@ A web-based platform that connects students with recruiters and employers, allow
 ## Repository
 
 This repository contains the development files and documentation for the Internship & Career Portal project.
+## Documentation
+
+- [Phase 2 SRS Document](./docs/CSAI203_SRS_Team05_202507986.pdf)
